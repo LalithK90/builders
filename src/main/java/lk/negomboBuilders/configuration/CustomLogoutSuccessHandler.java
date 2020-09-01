@@ -1,11 +1,5 @@
 package lk.negomboBuilders.configuration;
 
-
-import lk.negomboBuilders.asset.userManagement.entity.Enum.UserSessionLogStatus;
-import lk.negomboBuilders.asset.userManagement.entity.User;
-import lk.negomboBuilders.asset.userManagement.entity.UserSessionLog;
-import lk.negomboBuilders.asset.userManagement.service.UserService;
-import lk.negomboBuilders.asset.userManagement.service.UserSessionLogService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.web.authentication.logout.LogoutSuccessHandler;

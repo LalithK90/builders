@@ -1,6 +1,6 @@
 package lk.negomboBuilders.asset.employee.entity;
 
-import lk.negomboBuilders.util.audit.AuditEntity;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

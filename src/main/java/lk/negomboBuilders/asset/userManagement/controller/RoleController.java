@@ -1,7 +1,5 @@
 package lk.negomboBuilders.asset.userManagement.controller;
 
-import lk.negomboBuilders.asset.userManagement.entity.Role;
-import lk.negomboBuilders.asset.userManagement.service.RoleService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

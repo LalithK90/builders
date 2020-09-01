@@ -1,5 +1,6 @@
 package lk.negomboBuilders.asset.employee.entity.Enum;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
@@ -14,3 +15,4 @@ public enum WorkingPlaceChangeReason {
     private final String workingPlaceChangeReason;
 
 }
+
